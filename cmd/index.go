@@ -18,7 +18,7 @@ func main() {
 	var name string = "Sachin"
 	fmt.Println("Nice Work!")
 	fmt.Println("Student or not\t:\t", isStudent)
-	fmt.Println("Student Age\t:\t", age)
+	fmt.Println("Student Age\t:\t", age)    
 	fmt.Println(height)
 	fmt.Println(name)
 
@@ -30,6 +30,6 @@ func main() {
 	arr2 := [5]int{10, 2, 56, 43, 4}
 	fmt.Println(arr2)
 
-	
+
 
 }
