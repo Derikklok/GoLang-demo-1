@@ -21,4 +21,13 @@ func main() {
 	fmt.Println("Student Age\t:\t", age)
 	fmt.Println(height)
 	fmt.Println(name)
+
+	// Arrays
+
+	var arr1 = [3]int{1, 2, 3}
+	fmt.Println(arr1)
+
+	arr2 := [5]int{10, 2, 56, 43, 4}
+	fmt.Println(arr2)
+
 }
