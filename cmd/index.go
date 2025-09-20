@@ -30,4 +30,6 @@ func main() {
 	arr2 := [5]int{10, 2, 56, 43, 4}
 	fmt.Println(arr2)
 
+	
+
 }
